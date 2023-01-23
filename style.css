@@ -89,7 +89,7 @@ input:checked {
   button div {
     display: none;
   }
-  button {
+  img {
     margin: 20px;
   }
 }
