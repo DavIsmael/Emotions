@@ -90,6 +90,7 @@ input:checked {
     display: none;
   }
   button {
+    margin-top: 15px;
     margin-left: 45px;
   }
 }
