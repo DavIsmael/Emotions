@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Emotions é um app com propósito de deixar marcado o que você sentiu em cada dia.
 
-- [Visite o projeto online](https://davismael.github.io/nlwSetup-habits)
+- [Visite o projeto online](https://davismael.github.io/Emotions/)
 
 
 
